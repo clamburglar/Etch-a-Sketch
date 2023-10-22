@@ -1,3 +1,4 @@
+
 .container {
     display: flex;
     flex-flow: row wrap;
@@ -8,9 +9,10 @@
 
 .subcon {
     display: flex;
-    height: 50px;
-    width: 50px;
+    flex: 1 0 auto;
     border: 0px;
     padding: 0px;
 }
+
+
 
